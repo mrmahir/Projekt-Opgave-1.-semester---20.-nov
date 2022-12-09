@@ -1,0 +1,31 @@
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\bin\Debug\net6.0\appsettings.json
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\bin\Debug\net6.0\Projekt Opgave.staticwebassets.runtime.json
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\bin\Debug\net6.0\Projekt Opgave.exe
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\bin\Debug\net6.0\Projekt Opgave.deps.json
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\bin\Debug\net6.0\Projekt Opgave.runtimeconfig.json
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\bin\Debug\net6.0\Projekt Opgave.dll
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\bin\Debug\net6.0\Projekt Opgave.pdb
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\Projekt Opgave.csproj.AssemblyReference.cache
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\Projekt Opgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\Projekt Opgave.AssemblyInfoInputs.cache
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\Projekt Opgave.AssemblyInfo.cs
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\Projekt Opgave.csproj.CoreCompileInputs.cache
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\Projekt Opgave.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\Projekt Opgave.RazorAssemblyInfo.cache
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\Projekt Opgave.RazorAssemblyInfo.cs
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\staticwebassets\msbuild.Projekt Opgave.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\staticwebassets\msbuild.build.Projekt Opgave.props
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Projekt Opgave.props
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Projekt Opgave.props
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\scopedcss\bundle\Projekt Opgave.styles.css
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\scopedcss\projectbundle\Projekt Opgave.bundle.scp.css
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\Projekt Opgave.dll
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\refint\Projekt Opgave.dll
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\Projekt Opgave.pdb
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\Projekt Opgave.genruntimeconfig.cache
+C:\Users\mahoe\Desktop\Projekt Opgave\Projekt Opgave\Projekt Opgave\obj\Debug\net6.0\ref\Projekt Opgave.dll
